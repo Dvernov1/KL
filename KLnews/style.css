@@ -1,0 +1,40 @@
+@font-face {
+    font-family:'dubai';
+    src: url(DUBAI-LIGHT.TTF);
+}
+.A{
+    float:right;
+}
+.B{
+    float: left;
+}
+.C{
+    float:left;
+}
+
+h1{
+    color:wheat;
+    font-family: 'dubai';
+    text-align: center;
+    
+}
+h2{
+    color:wheat;
+    font-family: 'dubai';
+    text-align: center;
+    padding-left:20%;
+    padding-right:20%;
+}
+body ::-webkit-scrollbar{
+    width: 0.25rem;
+}
+body ::-webkit-scrollbar{
+    background:#1d2a4a;
+
+}
+body ::-webkit-scrollbar{
+ background:#f1b516;
+}
+.A1{
+    float:right;
+}

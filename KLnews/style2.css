@@ -1,0 +1,30 @@
+:root{
+font-size:24;
+font-family:'dubai';
+color:wheat;
+}
+@font-face {
+    font-family:'dubai';
+    src: url(DUBAI-LIGHT.TTF);
+}
+body ::-webkit-scrollbar{
+    width: 0.25rem;
+}
+body ::-webkit-scrollbar{
+    background:#1d2a4a;
+
+}
+body ::-webkit-scrollbar{
+ background:#f1b516;
+}
+.A{
+    float:right;
+}
+h1{
+    
+    text-align: center;
+}
+.WHAT{
+height: 250px;
+width: 125;
+}
